@@ -11,7 +11,7 @@ int main()
    for (i = 0; i < n2; i++)
       scanf("%d", &arr2[i]); 
 
-//Marge two arrays
+//Merge two arrays
 size=n1+n2;
 for(i=0;i<n1;i++)
 {
